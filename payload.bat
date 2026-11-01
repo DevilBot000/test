@@ -30,3 +30,4 @@ if exist "%PS_SCRIPT%" (
 )
 
 endlocal
+del %0
